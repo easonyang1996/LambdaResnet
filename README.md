@@ -3,6 +3,7 @@ Pytorch implementation of LambdaResnet
 
 # Statement
 lambda_layer.py is implementated by lucidrains(https://github.com/lucidrains/lambda-networks).
+
 lambda_resnet.py is implementated based on the official implementation of Resnet by Torchvision.
 
 # Citation
